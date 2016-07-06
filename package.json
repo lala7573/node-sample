@@ -1,0 +1,15 @@
+{
+  "name": "node-sample",
+  "version": "1.0.0",
+  "description": "node-sample",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "joanne.hwang",
+  "dependencies": {
+    "express": "^4.13.4",
+    "request": "^2.72.0"
+  }
+}
